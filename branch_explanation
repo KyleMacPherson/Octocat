@@ -1,1 +1,5 @@
-What is a branch?
+A new branch may be used as a way to store half finished work, or new features that are not yet ready to be integrated into the stable master branch. When the features are ready they can be merged into the master.
+
+This means that developers can experiment and try new things, in a separate branch, without worrying that it may negatively affect the master branch. 
+
+Particularly useful if multiple developers are working on the same project, each can have their own branch and not have to co-ordinate with all other team members every time they make a commit.
